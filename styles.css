@@ -1,0 +1,12 @@
+.reflection-box {
+  width: 200px;
+  height: 100px;
+  background-color: skyblue;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+  font-size: 24px;
+  margin: 50px;
+  border: 1px solid black;
+  -webkit-box-reflect: below 1px linear-gradient(transparent, transparent, #0004);
+}
